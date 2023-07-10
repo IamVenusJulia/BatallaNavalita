@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6198e71-3abf-4c66-b454-fca6d410321f" name="Changes" comment="" />
+    <list default="true" id="e6198e71-3abf-4c66-b454-fca6d410321f" name="Changes" comment="Se añade la clase que coloca los barcos en las casillas del enemigo.">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/Casillas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/PBarcos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/PCasillas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/PCasillasCPU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/Pelea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/colocarBarcos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProject/colocarBarcosCPU.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2SM8xqTKfldAzFHtpJYlSWpZ34q" />
@@ -16,12 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BatallaNavalita" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BatallaNavalita" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +78,75 @@
       <option name="presentableId" value="Default" />
       <updated>1688945341020</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creada la maldita clase Enemigo.">
+      <created>1688946424318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688946424318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creada la maldita clase Enemigo.">
+      <created>1688946998579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688946998580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creada la maldita clase Enemigo pero bien.">
+      <created>1688947090713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688947090713</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Clase de las casillas">
+      <created>1688948924687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688948924687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se añade la clase que coloca los barcos en las casillas.">
+      <created>1688949357190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688949357190</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Se añade la clase que coloca los barcos en las casillas.">
+      <created>1688949471151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688949471151</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se añade la clase que coloca los barcos en las casillas del enemigo.">
+      <created>1688950637449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688950637449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creada la maldita clase Enemigo." />
+    <MESSAGE value="Creada la maldita clase Enemigo pero bien." />
+    <MESSAGE value="Clase de las casillas" />
+    <MESSAGE value="Se añade la clase que coloca los barcos en las casillas." />
+    <MESSAGE value="Se añade la clase que coloca los barcos en las casillas del enemigo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añade la clase que coloca los barcos en las casillas del enemigo." />
   </component>
 </project>
